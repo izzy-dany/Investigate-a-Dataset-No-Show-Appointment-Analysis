@@ -1,0 +1,9 @@
+1.  Does the Neighbourhood affect the chances of patients showing up?
+
+2. Will receiving an sms from the hospital affect the chances of patients showing up?
+
+3. Can scholarships affect the chances of patients showing up?
+
+4. Can a patient's age affect the chances of him/her showing up?
+
+5.  Can the Gender of patients influence the attendance rate?

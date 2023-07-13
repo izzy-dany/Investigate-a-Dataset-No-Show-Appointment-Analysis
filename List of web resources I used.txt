@@ -1,0 +1,3 @@
+https://ordinarycoders.com/blog/article/25-python-commands-jupyter-notebook
+
+https://data-hacks.com/convert-string-column-boolean-data-type-pandas-dataframe-python
